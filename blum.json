@@ -1,12 +1,14 @@
-{
-  "question": "How to Analyze Crypto?",
-  "answer": "VALUE"
-},
-{
-  "question": "Forks Explained",
-  "answer": "GO GET"
-},
-{
-  "question": "Secure your Crypto!",
-  "answer": "BEST PROJECT EVER"
-}
+[
+  { 
+    "question": "How to Analyze Crypto?",
+    "answer": "VALUE"
+  },
+  {
+    "question": "Forks Explained",
+    "answer": "GO GET"
+  },
+  {
+    "question": "Secure your Crypto!",
+    "answer": "BEST PROJECT EVER"
+  }
+]
