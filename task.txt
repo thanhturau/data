@@ -181,6 +181,7 @@ M1178
 M1179
 M1180
 M1181
+M1182
 M2000
 M2001|2614907
 M2002|genesis
@@ -361,6 +362,7 @@ M2178|bulls
 M2179|bear
 M2180|positive
 M2181|memory
+M2182|boost
 M99||0
 M52||0
 M57||0
