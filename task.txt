@@ -806,7 +806,7 @@ M2535|g2pu
 M2537|atif
 M2538|must
 M2539|krwi
-M2536||kawa
+M2536|kawa
 M52||0
 M57||0
 M64||0
