@@ -520,11 +520,6 @@ M2194|newbal
 M2195|purple
 M2196|waves
 M2197|ifresh
-M2198|friday
-M2199|october
-M2200|street
-M2201|position
-M2202|solana
 M2203|double
 M2204|december
 M2205|company
