@@ -225,7 +225,9 @@
     },
     {
         "Q": "Financial Goals",
-        "A": "x4lh"
+        "A": "x4lh",
+        "B": "s3vr",
+        "C": "gjsa"
     },
     {
         "Q": "Cyberattacks Explained | Part 4 | TapSwap Education",
