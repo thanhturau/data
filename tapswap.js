@@ -201,7 +201,7 @@
     },
     {
         "Q": "Low-Cost Franchises",
-        "A": "3o9t"
+        "A": "tfgk"
     },
     {
         "Q": "💥 How a $1,500 Dogecoin Investment Grew 1,000%! |Part 5",
