@@ -68,7 +68,7 @@
     },
     {
         "Q": "AI Dropshipping",
-        "A": "is1p",
+        "A": "is1p"
     },
 	{
         "Q": "AI-Driven Dropshipping",
