@@ -26,7 +26,7 @@
     {
         "Q": "Phone-Based Side Hustles",
         "A": "ligq",
-		"B": "liquidity"
+	"B": "liquidity"
     },
     {
         "Q": "3D Printing for Fashion",
@@ -39,13 +39,13 @@
     {
         "Q": "Zero-Waste Product Line",
         "A": "3qec",
-		"B": "ab1s"
+	"B": "ab1s"
 		
     },
-	{
-		"Q": "Start a Zero-Waste Product Line",
-		"A": "waste"
-	},
+    {
+        "Q": "Start a Zero-Waste Product Line",
+        "A": "waste"
+    },
     {
         "Q": "Lucrative Career",
         "A": "ge7r"
