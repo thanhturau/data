@@ -1,5 +1,139 @@
 [
     {
+        "Q": "Stablecoin Showdown | Part 4",
+        "A": ""
+    },
+    {
+        "Q": "Stablecoin Showdown | Part 3",
+        "A": ""
+    },
+    {
+        "Q": "The Craziest Meme Coins on Solana | Part 1",
+        "A": ""
+    },
+    {
+        "Q": "Using TikTok",
+        "A": "x3pc"
+    },
+    {
+        "Q": "Make Money by Reselling",
+        "A": "tp3j"
+    },
+    {
+        "Q": "Phone-Based Side Hustles",
+        "A": "ligq",
+		"B": "liquidity"
+    },
+    {
+        "Q": "3D Printing for Fashion",
+        "A": "yagd"
+    },
+    {
+        "Q": "Earn Money Quickly",
+        "A": "oxsq"
+    },
+    {
+        "Q": "Zero-Waste Product Line",
+        "A": "3qec",
+		"B": "ab1s"
+		
+    },
+	{
+		"Q": "Start a Zero-Waste Product Line",
+		"A": "waste"
+	},
+    {
+        "Q": "Lucrative Career",
+        "A": "ge7r"
+    },
+    {
+        "Q": "Unlock Massive Earnings",
+        "A": "e42s"
+    },
+    {
+        "Q": "Build a Website Easily",
+        "A": "ct39"
+    },
+    {
+        "Q": "Unlock Hidden Income",
+        "A": "fla8"
+    },
+    {
+        "Q": "Stablecoin Showdown | Part 2",
+        "A": ""
+    },
+    {
+        "Q": "AI Dropshipping",
+        "A": "is1p",
+    },
+	{
+        "Q": "AI-Driven Dropshipping",
+        "A": "ds4h"
+    },
+	{
+        "Q": "Dropshipping with AI",
+        "A": "dropship"
+    },
+    {
+        "Q": "Stablecoin Showdown | Part 1",
+        "A": ""
+    },
+    {
+        "Q": "Life Lessons I Learned",
+        "A": "qrze"
+    },
+    {
+        "Q": "Craft an Online Portfolio",
+        "A": "eq4d"
+    },
+    {
+        "Q": "Pepe Coin Explained | Part 5",
+        "A": ""
+    },
+    {
+        "Q": "How Blockchain, IoT & AI Are Changing the World. Part 3  🦾 | TapSwap Education",
+        "A": ""
+    },
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
         "Q": "How Blockchain, IoT & AI Are Changing the World. Part 5  🦾 | TapSwap Education",
         "A": ""
     },
@@ -176,10 +310,6 @@
         "A": "dran"
     },
     {
-        "Q": "Zero-Waste Product Line",
-        "A": "ab1s"
-    },
-    {
         "Q": "Professional Problem Solver",
         "A": "colr"
     },
@@ -201,7 +331,9 @@
     },
     {
         "Q": "Low-Cost Franchises",
-        "A": "tfgk"
+        "A": "3o9t",
+		"B": "tfgk",
+		"C": "sport"
     },
     {
         "Q": "💥 How a $1,500 Dogecoin Investment Grew 1,000%! |Part 5",
@@ -226,8 +358,12 @@
     {
         "Q": "Financial Goals",
         "A": "x4lh",
-        "B": "s3vr",
-        "C": "gjsa"
+		"B": "s3vr",
+		"C": "gjsa"
+    },
+	{
+        "Q": "Financial Goals To set in Your 30s",
+        "A": "goals"
     },
     {
         "Q": "Cyberattacks Explained | Part 4 | TapSwap Education",
