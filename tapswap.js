@@ -94,46 +94,7 @@
         "Q": "How Blockchain, IoT & AI Are Changing the World. Part 3  🦾 | TapSwap Education",
         "A": ""
     },
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	{
+    {
         "Q": "How Blockchain, IoT & AI Are Changing the World. Part 5  🦾 | TapSwap Education",
         "A": ""
     },
