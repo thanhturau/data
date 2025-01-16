@@ -34,7 +34,7 @@
     {
         "Q": "Money-Making Ideas",
         "A": "pf4t",
-		"B": "hitm"
+	"B": "hitm"
     },
     {
         "Q": "Monetizing Your Content",
@@ -86,10 +86,10 @@
         "A": "3qec",
 		"B": "ab1s"
     },
-	{
+    {
 		"Q": "Start a Zero-Waste Product Line",
 		"A": "waste"
-	},
+    },
     {
         "Q": "Lucrative Career",
         "A": "ge7r"
