@@ -1,9 +1,54 @@
 [
     {
-        "Q": "No Upfront Investment",
-        "A": "snp5"
+        "Q": "Crypto POS Terminals | Part 1",
+        "A": ""
     },
     {
+        "Q": "Stablecoin Showdown | Part 5",
+        "A": ""
+    },
+    {
+        "Q": "The Craziest Meme Coins on Solana | Part 2",
+        "A": ""
+    },
+    {
+        "Q": "No Investment Needed",
+        "A": ""
+    },
+    {
+        "Q": "10k on TikTok",
+        "A": "cf3v"
+    },
+    {
+        "Q": "Reselling Into Profit",
+        "A": "nfbn"
+    },
+    {
+        "Q": "Side Hustles from Your Phone",
+        "A": "4u7i"
+    },
+    {
+        "Q": "Website Without Any Coding",
+        "A": "f3e8"
+    },
+    {
+        "Q": "Money-Making Ideas",
+        "A": "pf4t",
+		"B": "hitm"
+    },
+    {
+        "Q": "Monetizing Your Content",
+        "A": "pge3"
+    },
+    {
+        "Q": "How Blockchain, IoT & AI Are Changing the World. Part 1  🦾 | TapSwap Education",
+        "A": ""
+    },
+    {
+        "Q": "Maximizing Your Productivity",
+        "A": "etrs"
+    },
+	{
         "Q": "Stablecoin Showdown | Part 4",
         "A": ""
     },
@@ -26,7 +71,7 @@
     {
         "Q": "Phone-Based Side Hustles",
         "A": "ligq",
-	"B": "liquidity"
+		"B": "liquidity"
     },
     {
         "Q": "3D Printing for Fashion",
@@ -39,13 +84,12 @@
     {
         "Q": "Zero-Waste Product Line",
         "A": "3qec",
-	"B": "ab1s"
-		
+		"B": "ab1s"
     },
-    {
-        "Q": "Start a Zero-Waste Product Line",
-        "A": "waste"
-    },
+	{
+		"Q": "Start a Zero-Waste Product Line",
+		"A": "waste"
+	},
     {
         "Q": "Lucrative Career",
         "A": "ge7r"
@@ -98,7 +142,7 @@
         "Q": "How Blockchain, IoT & AI Are Changing the World. Part 3  🦾 | TapSwap Education",
         "A": ""
     },
-    {
+	{
         "Q": "How Blockchain, IoT & AI Are Changing the World. Part 5  🦾 | TapSwap Education",
         "A": ""
     },
@@ -153,10 +197,6 @@
     {
         "Q": "High CPM in 2024-2025",
         "A": "hd27"
-    },
-    {
-        "Q": "How Blockchain, IoT & AI Are Changing the World. Part 3  🦾 | TapSwap Education",
-        "A": ""
     },
     {
         "Q": "Profit from Your Expertise",
