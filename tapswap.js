@@ -13,7 +13,7 @@
     },
     {
         "Q": "No Investment Needed",
-        "A": ""
+        "A": "gx2x"
     },
     {
         "Q": "10k on TikTok",
