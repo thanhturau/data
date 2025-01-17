@@ -1,5 +1,37 @@
 [
     {
+        "Q": "Making Money Through Reselling",
+        "A": "afav"
+    },
+	{
+        "Q": "TikTok Into a $10k Income Stream",
+        "A": "dae1"
+    },
+	{
+        "Q": "Crypto Without Any Investment",
+        "A": "da1q"
+    },
+	{
+        "Q": "Resell And Profit",
+        "A": "ica4"
+    },
+	{
+        "Q": "Simple Strategies",
+        "A": "ica4"
+    },
+	{
+        "Q": "Proven Strategies",
+        "A": "i1sm"
+    },
+	{
+        "Q": "Boost Your Income",
+        "A": "tsys"
+    },
+	{
+        "Q": "Resell And Profit",
+        "A": "ica4"
+    },
+	{
         "Q": "Crypto POS Terminals | Part 1",
         "A": ""
     },
