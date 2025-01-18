@@ -21,15 +21,11 @@
     },
 	{
         "Q": "Proven Strategies",
-        "A": "i1sm"
+        "A": "3agg"
     },
 	{
         "Q": "Boost Your Income",
         "A": "tsys"
-    },
-	{
-        "Q": "Resell And Profit",
-        "A": "ica4"
     },
 	{
         "Q": "Crypto POS Terminals | Part 1",
