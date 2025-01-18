@@ -17,7 +17,7 @@
     },
 	{
         "Q": "Simple Strategies",
-        "A": "ica4"
+        "A": "i1sm"
     },
 	{
         "Q": "Proven Strategies",
