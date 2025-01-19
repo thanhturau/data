@@ -1,4 +1,105 @@
 [
+     {
+        "Q": "Bitcoin ETFs | Part 3",
+        "A": ""
+    },
+    {
+        "Q": "Bitcoin ETFs | Part 2",
+        "A": ""
+    },
+    {
+        "Q": "The Craziest Meme Coins on Solana | Part 5",
+        "A": ""
+    },
+    {
+        "Q": "Free Online Courses",
+        "A": "kpsl"
+    },
+    {
+        "Q": "Top Side Hustle",
+        "A": "rg7e",
+        "B": "wuhi9t"
+    },
+    {
+        "Q": "Unlock Free Rewards",
+        "A": "rm8b"
+    },
+    {
+        "Q": "Get Free Online Courses",
+        "A": "kpsl"
+    },
+    {
+        "Q": "Make Money Without Leaving",
+        "A": "orrm"
+    },
+    {
+        "Q": "Earning $1,000 in Crypto",
+        "A": "mga7"
+    },
+    {
+        "Q": "Earn 10k on TikTok",
+        "A": "e53e"
+    },
+    {
+        "Q": "Flip and Earn",
+        "A": "h3xr"
+    },
+    {
+        "Q": "Earn $100+ Daily",
+        "A": "kd5r"
+    },
+    {
+        "Q": "Earn $5,312 per Month",
+        "A": "htf5"
+    },
+    {
+        "Q": "Bitcoin ETFs | Part 1",
+        "A": ""
+    },
+    {
+        "Q": "Crypto POS Terminals | Part 4",
+        "A": ""
+    },
+    {
+        "Q": "Make $1,000 in Crypto",
+        "A": ""
+    },
+    {
+        "Q": "From Likes to Cash",
+        "A": "8uyt"
+    },
+    {
+        "Q": "The Craziest Meme Coins on Solana | Part 4",
+        "A": ""
+    },
+    {
+        "Q": "Resell and Profit",
+        "A": "ica4"
+    },
+    {
+        "Q": "Crypto POS Terminals | Part 3",
+        "A": ""
+    },
+    {
+        "Q": "Crypto POS Terminals | Part 2",
+        "A": ""
+    },
+    {
+        "Q": "Side Hustles on Your Phone",
+        "A": "dd9i"
+    },
+    {
+        "Q": "The Craziest Meme Coins on Solana | Part 3",
+        "A": ""
+    },
+    {
+        "Q": "Lucrative Ways to Make Money",
+        "A": "gld5"
+    },
+    {
+        "Q": "Turn Content Into Cash",
+        "A": "hcv7"
+    },    
     {
         "Q": "Making Money Through Reselling",
         "A": "afav"
@@ -66,7 +167,9 @@
     },
     {
         "Q": "Monetizing Your Content",
-        "A": "pge3"
+        "A": "pge3",
+        "B": "nfgv",
+        "C": "hijm"
     },
     {
         "Q": "How Blockchain, IoT & AI Are Changing the World. Part 1  🦾 | TapSwap Education",
