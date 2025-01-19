@@ -62,7 +62,7 @@
     },
     {
         "Q": "Make $1,000 in Crypto",
-        "A": ""
+        "A": "ey1z"
     },
     {
         "Q": "From Likes to Cash",
