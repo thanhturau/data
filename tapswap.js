@@ -1,13 +1,5 @@
 [
      {
-        "Q": "High-Paying Side Hustles",
-        "A": "g6er"
-    },
-	{
-        "Q": "High-Paying Side Hustles",
-        "A": "g6er"
-    },
-	{
         "Q": "Secret Tricks",
         "A": "esba"
     },
