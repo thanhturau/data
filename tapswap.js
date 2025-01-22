@@ -1,5 +1,121 @@
 [
      {
+        "Q": "High-Paying Side Hustles",
+        "A": "g6er"
+    },
+	{
+        "Q": "High-Paying Side Hustles",
+        "A": "g6er"
+    },
+	{
+        "Q": "Secret Tricks",
+        "A": "esba"
+    },
+	{
+        "Q": "The Hottest Side Hustles",
+        "A": "mrm4"
+    },
+	{
+        "Q": "Easy Ways to Earn",
+        "A": "kn5f"
+    },
+	{
+        "Q": "Made $5000",
+        "A": "a4xe"
+    },
+	{
+        "Q": "Your First Online Business",
+        "A": "rkox"
+    },
+	{
+        "Q": "Make $100+ Daily",
+        "A": "ace1"
+    },
+	{
+        "Q": "5 Secrets You Need to Know",
+        "A": "azw1"
+    },
+	{
+        "Q": "Learn to Monetize",
+        "A": "tt4l"
+    },
+	{
+        "Q": "Free Staff Every Month",
+        "A": "3sa9"
+    },
+	{
+        "Q": "High-Paying Side Hustles",
+        "A": "g6er"
+    },
+	{
+        "Q": "Profiting on Binance",
+        "A": "rvs6"
+    },
+	{
+        "Q": "$5,000 in Just 30 Days",
+        "A": "r5bm"
+    },
+	{
+        "Q": "Earning $100+ Per Day",
+        "A": "9ckt"
+    },
+	{
+        "Q": "You Desire in Life",
+        "A": "cdae"
+    },
+	{
+        "Q": "Making Money With Free Online",
+        "A": "occl"
+    },
+	{
+        "Q": "Free Gifts from Loyalty Programs",
+        "A": "v2q3"
+    },
+	{
+        "Q": "Make 2025 Your Year",
+        "A": "d5n5"
+    },
+	{
+        "Q": "Make Money on Binance",
+        "A": "ema9"
+    },
+	{
+        "Q": "Opening an Online Business",
+        "A": "rzr2"
+    },
+	{
+        "Q": "Turn X Into a $5,000/Month",
+        "A": "astv"
+    },
+	{
+        "Q": "Earn $100 Every Day",
+        "A": "ouns"
+    },
+	{
+        "Q": "Unlock Your Potential",
+        "A": "c46r"
+    },
+	{
+        "Q": "Binance Made Easy",
+        "A": "gpkt"
+    },
+	{
+        "Q": "Boost Your Income In 2025",
+        "A": "c7s3"
+    },
+	{
+        "Q": "Earn $300/Daily From Binance",
+        "A": "jager"
+    },
+	{
+        "Q": "Crypto News! BlackRock CEO's U-Turn On Bitcoin",
+        "A": ""
+    },
+	{
+        "Q": "Free Gifts and Rewards",
+        "A": "fesf"
+    },
+	{
         "Q": "Bitcoin ETFs | Part 3",
         "A": ""
     },
@@ -13,7 +129,8 @@
     },
     {
         "Q": "Free Online Courses",
-        "A": "rbol"
+        "A": "rbol",
+		"B": "wowl"		
     },
     {
         "Q": "Top Side Hustle",
